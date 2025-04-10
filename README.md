@@ -1,13 +1,17 @@
-# Projeto API Alunos
+# Projeto API Alunos 👨‍🎓👩‍🎓
 A API contida neste repositório disponibiliza recursos de:
 - Listar alunos
 - Salvar um aluno
 
-## Stack utilizada:
+## Stack utilizada 💻:
 - Java (JDK 17)
 - Springboot (Serviço Web)
 - MongoDB (Banco de dados NOSQL)
 - Swagger (Documentação da API)
+
+## Preview documentação:
+![image](https://github.com/user-attachments/assets/caab1818-f878-4e6c-ba45-4aa1c9e71513)
+
 
 ## Requerimentos para rodar:
 - Java versão 17+
