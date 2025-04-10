@@ -18,7 +18,7 @@ A API contida neste repositório disponibiliza recursos de:
 > Caso não tenha instalar seguindo o passo a passo para seu sistema operacional no próprio site do mongoDB: [Documentação Oficial MongoDB](https://www.mongodb.com/try/download/community)
 
 ## Como instalar:
-- Clonar este repositório em algum diretório de sua preferência: `git clone https://github.com/gustavoc0imbra/apialunos/tree/main`
+- Clonar este repositório em algum diretório de sua preferência: `git clone https://github.com/gustavoc0imbra/apialunos.git`
 - Abrir em sua IDE de preferência e rodar.
 
 > [!NOTE]
