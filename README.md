@@ -24,3 +24,6 @@ A API contida neste repositório disponibiliza recursos de:
 > [!NOTE]
 > A API vai ser disponibilizada no endereço `http://localhost:8080/`  
 > A documentação dos endpoints disponibilizados estará em `http://localhost:8080/api-docs`
+
+## Frontend que consome esta API:
+O repositório do projeto que consome esta API e exibe de uma forma mais interativa os dados salvos nesta aplicação é: [Frontend Alunos](https://github.com/gustavoc0imbra/frontalunos)
