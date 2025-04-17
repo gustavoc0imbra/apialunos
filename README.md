@@ -23,7 +23,13 @@ A API contida neste repositório disponibiliza recursos de:
 
 ## Como instalar:
 - Clonar este repositório em algum diretório de sua preferência: `git clone https://github.com/gustavoc0imbra/apialunos.git`
-- Abrir em sua IDE de preferência e rodar.
+
+## Como rodar:
+- Abrir em sua IDE de preferência.
+- Executar o projeto ou se preferir fazer o build do projeto com .jar, rodar o seguinte comando: `java -jar nomedoarquivo.jar`
+
+> [!NOTE]
+> A classe Main do projeto se chama `StudentapiApplication` para inicializar o projeto ou fazer uma configuração de preferência
 
 > [!NOTE]
 > A API vai ser disponibilizada no endereço `http://localhost:8080/`  
